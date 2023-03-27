@@ -11,7 +11,6 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RyanRafaa&theme=gotham)
 
-![Snake animation](https://github.com/ryanrafaa/ryanrafaa/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
