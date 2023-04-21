@@ -18,6 +18,9 @@
 </p>
 
 <div align="center">  
+<a href="https://ryanrafaa.github.io/#topo" target="_blank"><img src="https://img.shields.io/badge/-MEU PORTIFÓLIO XD-00bfbf?style=for-the-badge">
+</div> 
+<div align="center">  
 <a href="https://www.linkedin.com/in/ryan-rafael-rocha-097a5a14a//" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div> 
 <div align="center">  
