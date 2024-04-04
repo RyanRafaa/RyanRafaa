@@ -5,26 +5,34 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ryan+Rafael;I'm+22+years+old;I+am+from+Ivaiporã,+PR;I+study+analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RyanRafaa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ryan Rafael github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanRafaa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RyanRafaa&show_icons=true&rank_icon=github&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=ffffff&bg_color=25,0d1117,08565A,058082" alt="Ryan Rafael github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanRafaa&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=25,0d1117,08565A,058082" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RyanRafaa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RyanRafaa&theme=oldie&margin-w=15&margin-h=15" />
 </p>
+
+<!-- <div align="center">  
+  
+ <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=RyanRafaa&repo=NewPortRyan" />  
+
+</div>-->
+
 
 <!-- <div align="center">  
 <a href="https://ryanrafaa.github.io/#topo" target="_blank"><img src="https://img.shields.io/badge/-MEU PORTIFÓLIO XD-00bfbf?style=for-the-badge">
 </div>  -->
 <div align="center">  
 <a href="https://www.linkedin.com/in/ryan-rafael-rocha-097a5a14a//" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</div> 
-<div align="center">  
 <a href="https://www.instagram.com/ryanrafaag/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</div> 
-<div align="center">  
 <a href="https://steamcommunity.com/id/rafaagoncalves/" target="_blank"><img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white&">
 </div> 
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RyanRafaa}/count.svg" /></p> 
+<br></div>
  
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -51,14 +59,7 @@
 
   
 ### Studying in this moment:
-![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![AmazonAws](https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RyanRafaa}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
