@@ -34,11 +34,13 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RyanRafaa}/count.svg" /></p> 
 <br></div>
 
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img alt="an animated visualization of github contributions" src="./profile-3d-contrib/profile-green-animate.svg" width="65%" align="right">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img alt="an animated visualization of github contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="65%" align="right">
 </picture>
+
  
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
