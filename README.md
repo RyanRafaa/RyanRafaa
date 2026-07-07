@@ -32,10 +32,19 @@ const ryan = {
   name: "Ryan Rafael",
   location: "Brazil 🇧🇷",
   age: 24,
-  role: "Systems Analyst & Full-stack Developer",
-  education: "Graduated in Systems Analysis",
-  currentFocus: "Building scalable web applications",
-  languages: ["Portuguese", "Spanish", "English"]
+  role: "Project Manager & Full-Stack Developer",
+  education: {
+    degree: "Systems Analysis and Development",
+    postGrad: "AI & Software Architecture (In Progress)"
+  },
+  currentFocus: [
+    "Leading development teams",
+    "Building scalable web applications",
+    "Creating tools for streamers",
+    "Studying AI & Software Architecture"
+  ],
+  languages: ["Portuguese", "Spanish", "English"],
+  motto: "Transforming ideas into impactful solutions 🚀"
 };
 ```
 
