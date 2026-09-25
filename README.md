@@ -31,7 +31,7 @@
 const ryan = {
   name: "Ryan Rafael",
   location: "Brazil 🇧🇷",
-  age: 24,
+  age: 25,
   role: "Project Manager & Full-Stack Developer",
   education: {
     degree: "Systems Analysis and Development",
